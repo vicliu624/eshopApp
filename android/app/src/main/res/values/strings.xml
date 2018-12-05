@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">亿店</string>
+    <string name="cancel">取消支付</string>
+    <string name="to_pay">确认支付</string>
+    <string name="title_activity_blue_tooth_search">支付页</string>
+    <string name="activity_mainactivity_denied">拒绝</string>
+    <string name="activity_mainactivity_granted">允许</string>
+</resources>
