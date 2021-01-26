@@ -9,7 +9,7 @@
   "dependencies": {
     "@babel/plugin-proposal-decorators": "^7.1.2",
     "antd-mobile-rn": "^2.3.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.11.0",
     "expo": "^30.0.1",
     "lodash": "^4.17.11",
