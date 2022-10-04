@@ -11,7 +11,7 @@
     "antd-mobile-rn": "^2.3.0",
     "axios": "^0.18.0",
     "babel-plugin-import": "^1.11.0",
-    "expo": "^30.0.1",
+    "expo": "^46.0.14",
     "lodash": "^4.17.11",
     "native-base": "^2.8.1",
     "prop-types": "^15.6.2",
